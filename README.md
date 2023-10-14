@@ -1,5 +1,6 @@
 ﻿# PandaDesigner
-Estes es unos de mis primeros proyecto de la culebrita con javascript 
+**Estes es unos de mis primeros proyecto de la culebrita con javascript 
+
 js``
 const PandaDesigners = {
 Name: 'Pedro Fernandez',
