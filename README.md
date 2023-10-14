@@ -5,3 +5,4 @@ const PandaDesigners = {
 Name: 'Pedro Fernandez',
 Skill:['Web Designers', 'UX/UI, 'Developer FrontEnd'],
 }
+``
