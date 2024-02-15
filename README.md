@@ -26,14 +26,6 @@
 
 ## Contacto
 
-Si estás interesado/a en colaborar o necesitas un desarrollador Frontend con experiencia en UX/UI, ¡no dudes en contactarme!
-
-- **Portafolio:** [Link a tu portafolio]
-- **GitHub:** [Link a tu perfil de GitHub]
-- **LinkedIn:** [Link a tu perfil de LinkedIn]
-
-
-
  # PandaDesigner
 **Estes es unos de mis primeros proyecto de la culebrita con javascript 
 
