@@ -1,49 +1,38 @@
+# ¡Hola! Soy Pedro Fernández, Desarrollador Frontend
 
- ## ¡Hola! Soy Pedro Fernández
+¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador Frontend con experiencia en diseño UX/UI y desarrollo web. Estoy comprometido a crear interfaces de usuario intuitivas, atractivas y fáciles de usar.
 
-**Desarrollador Frontend apasionado por la UX/UI**
+## Experiencia
 
-**Experiencia:**
+- 🎨 **15 años** de experiencia en diseño con enfoque en UX/UI.
+- 💻 **5 años** de experiencia en desarrollo web.
+- 🚀 Experto en librerías de estilos como Tailwind, MUI, y otras.
+- 🌟 Conocimiento medio-avanzado de CSS, Sass y Less.
+- ⚡ Desarrollador en JavaScript, con experiencia en Vanilla y frameworks como Next.js.
+- 🔥 Experto en React.js.
 
-* 15 años de experiencia en el área de diseño, con un enfoque en la experiencia del usuario y la interfaz de usuario.
-* 5 años de experiencia en desarrollo web con enfoque en UX/UI.
-* Experto en el uso de librerías de estilos como Tailwind, MUI, y otras.
-* Conocimiento medio-avanzado de CSS, Sass y Less.
-* Desarrollador en JavaScript, con experiencia en Vanilla y frameworks como Next.js.
-* Experto en React.js.
+## Habilidades
 
-**Habilidades:**
+- 💻 Desarrollo Frontend
+- 🎨 Diseño web y UX/UI
+- 🖌️ Librerías de estilos (Tailwind, MUI, etc.)
+- 🎨 CSS, Sass y Less
+- 🚀 JavaScript (Vanilla, Next.js)
+- ⚛️ React.js
 
-* Diseño web y UX/UI
-* Desarrollo Frontend
-* Librerías de estilos (Tailwind, MUI, etc.)
-* CSS, Sass y Less
-* JavaScript (Vanilla, Next.js)
-* React.js
+## Acerca de mí
 
-**Edad:** 40 años
+¡Me apasiona aprender nuevas tecnologías y compartir mis conocimientos con la comunidad! En mi tiempo libre, disfruto de [Añadir hobbies].
 
-**Estoy comprometido a crear interfaces de usuario que sean:**
+## Contacto
 
-* Intuitivas
-* Atractivas
-* Fáciles de usar
+Si estás interesado/a en colaborar o necesitas un desarrollador Frontend con experiencia en UX/UI, ¡no dudes en contactarme!
 
-**Me apasiona aprender nuevas tecnologías y compartir mis conocimientos con la comunidad.**
+- **Portafolio:** [Link a tu portafolio]
+- **GitHub:** [Link a tu perfil de GitHub]
+- **LinkedIn:** [Link a tu perfil de LinkedIn]
 
-**En mi tiempo libre disfruto de:**
 
-* [Lectura, juegos en linea, disfrutar de peliculas en familia]
-
-**Si buscas un desarrollador Frontend con experiencia en UX/UI, no dudes en contactarme.**
-
-**Puedes encontrar más información sobre mi trabajo en:**
-
-* **Portafolio:** [Link a tu portafolio]
-* **GitHub:** [Link a tu perfil de GitHub]
-* **LinkedIn:** [Link a tu perfil de LinkedIn]
-
-**¡Gracias por tu visita!**
 
  # PandaDesigner
 **Estes es unos de mis primeros proyecto de la culebrita con javascript 
@@ -54,3 +43,5 @@ Name: 'Pedro Fernandez',
 Skill:['Web Designers', 'UX/UI, 'Developer FrontEnd'],
 }
 ``
+
+¡Gracias por visitar mi perfil!
