@@ -17,7 +17,7 @@
 - 🎨 Diseño web y UX/UI
 - 🖌️ Librerías de estilos (Tailwind, MUI, etc.)
 - 🎨 CSS, Sass y Less
-- 🚀 JavaScript (Vanilla, Next.js)
+- 🚀 JavaScript & TypeScript (Vanilla, Next.js)
 - ⚛️ React.js
 
 ## Acerca de mí
