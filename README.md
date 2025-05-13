@@ -34,8 +34,8 @@ const Skills = {
   WebDev     : { years: 5,  level: "Advanced", icon: "💻" }, // Frontend
   Styling    : { years: 5,  level: "Expert",   icon: "🚀" }, // Tailwind & MUI
   CSS        : { years: 5,  level: "Advanced", icon: "🌟" }, // Sass & Less
-  JavaScript : { years: 5,  level: "Advanced", icon: "⚡" }, // Next.js
-  React      : { years: 5,  level: "Expert",   icon: "🔥" }  // React.js
+  JavaScript : { years: 5,  level: "Advanced", icon: "⚡" }, // Next.js & TypeScript
+  React      : { years: 5,  level: "Expert",   icon: "🔥" }  // React.js & TypeScript
 
 };
 
