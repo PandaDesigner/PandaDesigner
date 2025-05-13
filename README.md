@@ -13,7 +13,8 @@ class Profile {
   constructor(
     private name: string = "Pedro Fernández",
     private role: string = "Frontend Developer",
-    private location: string = "Venezuela",
+    private nationality: string  = "Venezuela",
+    private location: string = "Colombia",
     private exp: Dev = { design: 15, webDev: 5 }
   ) {}
 
