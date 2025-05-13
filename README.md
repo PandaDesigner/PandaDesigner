@@ -2,7 +2,43 @@
 
 ¡Bienvenido/a a mi perfil de GitHub! Soy un apasionado desarrollador Frontend con experiencia en diseño UX/UI y desarrollo web. Estoy comprometido a crear interfaces de usuario intuitivas, atractivas y fáciles de usar.
 
+# < PandaDesigner />
+
+```typescript
+
+interface Dev { design: number, webDev: number }
+
+class Profile {
+
+  constructor(
+    private name: string = "Pedro Fernández",
+    private role: string = "Frontend Developer",
+    private location: string = "Venezuela",
+    private exp: Dev = { design: 15, webDev: 5 }
+  ) {}
+
+  get info() { return this }
+  get experience() { return this.exp }
+
+}
+
+```
+
 ## Experiencia
+
+```typescript
+
+const Skills = {
+  Design     : { years: 15, level: "Expert",   icon: "🎨" }, // UX/UI Design
+  WebDev     : { years: 5,  level: "Advanced", icon: "💻" }, // Frontend
+  Styling    : { years: 5,  level: "Expert",   icon: "🚀" }, // Tailwind & MUI
+  CSS        : { years: 5,  level: "Advanced", icon: "🌟" }, // Sass & Less
+  JavaScript : { years: 5,  level: "Advanced", icon: "⚡" }, // Next.js
+  React      : { years: 5,  level: "Expert",   icon: "🔥" }  // React.js
+
+};
+
+```
 
 - 🎨 **15 años** de experiencia en diseño con enfoque en UX/UI.
 - 💻 **5 años** de experiencia en desarrollo web.
