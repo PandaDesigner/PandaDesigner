@@ -50,6 +50,8 @@ const Skills = {
 - 🚀 JavaScript & TypeScript (Vanilla, Next.js)
 - ⚛️ React.js
 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDesigner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Acerca de mí
 
 ¡Me apasiona aprender nuevas tecnologías y compartir mis conocimientos con la comunidad! En mi tiempo libre, disfruto de [Añadir hobbies].
