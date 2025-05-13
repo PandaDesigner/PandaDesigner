@@ -40,13 +40,6 @@ const Skills = {
 
 ```
 
-- 🎨 **15 años** de experiencia en diseño con enfoque en UX/UI.
-- 💻 **5 años** de experiencia en desarrollo web.
-- 🚀 Experto en librerías de estilos como Tailwind, MUI, y otras.
-- 🌟 Conocimiento medio-avanzado de CSS, Sass y Less.
-- ⚡ Desarrollador en JavaScript, con experiencia en Vanilla y frameworks como Next.js.
-- 🔥 Experto en React.js.
-
 ## Habilidades
 
 - 💻 Desarrollo Frontend
