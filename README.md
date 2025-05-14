@@ -40,10 +40,10 @@ const Skills = {
 };
 
 ```
-![React](https://img.shields.io/badge/React.js-75%25-61DAFB?style=flat-square)
-![Next.js](https://img.shields.io/badge/Next.js-70%25-000000?style=flat-square)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-80%25-38B2AC?style=flat-square)
-![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-90%25-FF66B2?style=flat-square)
+![React](https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-70%25-000000?style=for-the-badge&logo=nextjs)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-80%25-38B2AC?style=for-the-badge&logo=tailwind-css)
+![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-90%25-FF66B2?style=for-the-badge&logo=designernews)
 
 ## Habilidades
 
