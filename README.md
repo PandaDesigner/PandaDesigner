@@ -9,7 +9,7 @@ Desarrollador frontend con más de 5 años de experiencia, más de 8 años en UX
 - Ubicación: Bello, Antioquia, Colombia
 - Modalidad: remoto; híbrido o presencial en Medellín
 - Enfoque actual: frontend semisenior, React Native semisenior y full stack junior
-- Portfolio: [pandadesigners.com](https://pandadesigners.com)
+- Porfolio: [pedro-new-porfolio.netlify.app]((https://pedro-new-porfolio.netlify.app/))
 - LinkedIn: [pedro-fernandez-develop-frontend](https://www.linkedin.com/in/pedro-fernandez-develop-frontend/)
 - Contacto: [prfmaetre@gmail.com](mailto:prfmaetre@gmail.com)
 
