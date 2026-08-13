@@ -1,136 +1,60 @@
-# < PandaDesigner />
+# <PandaDesigner />
 
-> **Pedro Fernández** - Frontend Engineer | UX/UI Designer | Web Architecture
+## Pedro Fernández
 
-¡Hola! Soy un apasionado desarrollador Frontend con **8+ años de experiencia** en el ecosistema web moderno. Me especializo en crear interfaces intuitivas y escalables, combinando arquitectura de software sólida con diseño UX/UI de alto impacto.
+**Frontend & Mobile Developer | React · Next.js · TypeScript · React Native | UX/UI | Playwright | Clean Architecture**
 
----
+Desarrollador frontend con más de 5 años de experiencia, más de 8 años en UX/UI y más de 15 años en diseño gráfico digital. Creo productos web y móviles accesibles, eficientes y centrados en el usuario, conectando diseño, producto e ingeniería.
 
-## 👨‍💻 Sobre mí (en código)
+- Ubicación: Bello, Antioquia, Colombia
+- Modalidad: remoto; híbrido o presencial en Medellín
+- Enfoque actual: frontend semisenior, React Native semisenior y full stack junior
+- Portfolio: [pandadesigners.com](https://pandadesigners.com)
+- LinkedIn: [pedro-fernandez-develop-frontend](https://www.linkedin.com/in/pedro-fernandez-develop-frontend/)
+- Contacto: [prfmaetre@gmail.com](mailto:prfmaetre@gmail.com)
 
-```typescript
-interface Dev { design: number, webDev: number }
+## Stack principal
 
-class Profile {
-  constructor(
-    private name: string = "Pedro Fernández",
-    private role: string = "Frontend Developer",
-    private nationality: string  = "Venezuela",
-    private location: string = "Colombia",
-    private exp: Dev = { design: 20, webDev: 12}
-  ) {}
+**Frontend y móvil:** React, Next.js, Astro, React Native, Expo, TypeScript, JavaScript, HTML y CSS
 
-  get info() { return this }
-}
-```
+**Estado y arquitectura:** Redux, Zustand, React Query, BFF, Clean Architecture
 
-```typescript
-const Skills = {
-  Design     : { years: 15, level: "Expert",   icon: "🎨" }, // UX/UI Design
-  WebDev     : { years: 5,  level: "Advanced", icon: "💻" }, // Frontend
-  Styling    : { years: 5,  level: "Expert",   icon: "🚀" }, // Tailwind & MUI
-  CSS        : { years: 5,  level: "Advanced", icon: "🌟" }, // Sass & Less
-  JavaScript : { years: 5,  level: "Advanced", icon: "⚡" }, // Next.js & TypeScript
-  React      : { years: 5,  level: "Expert",   icon: "🔥" }  // React.js & TypeScript
-};
-```
+**Backend y CMS:** Node.js, Express, NestJS, FastAPI, PHP y WordPress
 
-### Tech Stack
-![React](https://img.shields.io/badge/React-75%25-61DAFB?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-70%25-000000?style=for-the-badge&logo=nextjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-80%25-38B2AC?style=for-the-badge&logo=tailwind-css)
-![UX/UI Design](https://img.shields.io/badge/UX/UI%20Design-90%25-FF66B2?style=for-the-badge&logo=designernews)
+**Diseño:** Figma, UX/UI, Design Systems, Atomic Design, Photoshop e Illustrator
 
----
+**Calidad:** Playwright, Jest, accesibilidad, rendimiento, Git y GitHub
 
-## 💼 Experiencia Profesional
+## Experiencia profesional
 
-### Frontend Engineer
-**Vanguard Vision AI** | *Junio 2025 - Presente*
+- **Frontend Developer — Vanguard Vision AI** · julio 2025 — julio 2026
+- **UX/UI Designer — Xcala** · octubre 2022 — junio 2025
+- **Frontend Engineer — Mercado Libre** · mayo 2024 — mayo 2025
+- **Web Developer & Graphic Designer — Efigen Renewable Energy** · julio 2022 — octubre 2023
+- **Web Developer — SirBuho** · abril 2021 — junio 2022
 
-Desarrollo de aplicaciones web fullstack utilizando **Next.js** con backend integrado (API Routes / App Router).
-- Implementación de interfaces complejas en **React** con gestión de estado optimizada.
-- Desarrollo de aplicaciones móviles con **React Native y Expo**, reutilizando lógica de negocio.
-- Testing unitario e integración con **Jest**.
+  PHP, WordPress, plugins personalizados, páginas a medida, mantenimiento web, Figma y skeletons de iOS.
+- **Graphic Designer — Práctica independiente** · marzo 2009 — septiembre 2022
 
-**Stack:** Next.js, React, React Native (Expo), TypeScript, Jest, REST APIs.
+## Formación
 
-### Frontend Developer
-**Mercado Libre** | *Mayo 2024 - Mayo 2025*
+- **Licenciatura en Diseño Gráfico** — Universidad Católica Cecilio Acosta, 2002–2008
+- **Ingeniería en Computación, estudios incompletos** — Universidad Rafael Belloso Chacín, julio 2000–agosto 2002
 
-Desarrollo de features frontend con **TypeScript** en una plataforma de alto tráfico.
-- Implementación de **Redux** para gestión de estado global en flujos críticos.
-- Creación de tests con **Jest** para prevenir regresiones.
-- Trabajo en equipos multidisciplinarios bajo metodologías ágiles.
+  Seis semestres cursados; 42 de 102 materias aprobadas.
 
-**Stack:** TypeScript, Redux.js, Jest, React, OOP, UI Design.
+## Certificaciones recientes
 
-### Frontend Engineer · UX/UI
-**Xcala** | *Octubre 2022 - Junio 2025*
+- TypeScript curso Esencial para el Frontend (Incluye POO) — Udemy, agosto 2026
+- TypeScript: Tu completa guía y manual de mano — Udemy, diciembre 2023
+- JavaScript Moderno: Guía para dominar el lenguaje — Udemy, octubre 2023
+- React JS — Verified by Talently, enero 2024
+- JavaScript Front-End — Verified by Talently, enero 2024
 
-Diseño y desarrollo de interfaces responsivas con **React y TypeScript**.
-- Dashboards y visualización de datos con **Chart.js**.
-- Colaboración estrecha con equipos de diseño y producto.
+## Proyectos y actividad
 
-**Stack:** React Hooks, Webpack, TypeScript, CSS, Git, Chart.js.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PandaDesigner&show_icons=true&theme=transparent&hide_border=true)](https://github.com/PandaDesigner)
 
-### Frontend Developer
-**Efigen Renewable Energy** | *Julio 2022 - Octubre 2023*
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDesigner&layout=compact&theme=transparent&hide_border=true)](https://github.com/PandaDesigner?tab=repositories)
 
-Desarrollo de interfaces web priorizando el rendimiento.
-- Componentes visuales y reportes de energía con **Chart.js**.
-- Integración con WordPress y Elementor.
-
-**Stack:** Node.js, React Hooks, Webpack, CSS, Git, Chart.js.
-
----
-
-## 🛠 Habilidades Técnicas
-
-### Frontend & Mobile
-- **Core:** JavaScript (8+ años), TypeScript (5+ años), HTML5, CSS3.
-- **Frameworks:** React (5+ años), Next.js (3+ años), React Native, Expo.
-- **State Management:** Redux, Zustand, React Query.
-- **Testing:** Jest.
-
-### UI/UX & Design
-- **Herramientas:** Figma, Adobe XD, Photoshop, Illustrator, After Effects.
-- **Sistemas:** Design Systems, Atomic Design.
-- **Estilos:** Tailwind CSS, Material UI, SASS/LESS, Styled Components.
-
-### Backend & Tools
-- Node.js, NestJS, Express.
-- PHP, Laravel, WordPress.
-- Git, GitHub, Webpack.
-
----
-
-## 🎓 Educación
-
-**Licenciatura en Diseño Gráfico**
-*Universidad Católica Cecilio Acosta | 2002 - 2008*
-Especialización en arte digital, imagen corporativa y medios digitales.
-
----
-
-## 📊 GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaDesigner&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 📮 Contacto
-
-📧 [prfmaetre@gmail.com](mailto:prfmaetre@gmail.com)
-💼 [LinkedIn](https://www.linkedin.com/in/pedro-fernandez-develop-frontend/)
-🌐 [Portfolio](#)
-
-> *Este es uno de mis primeros proyectos de la culebrita con javascript:*
-
-```javascript
-const PandaDesigners = {
-  Name: 'Pedro Fernandez',
-  Skill: ['Web Designers', 'UX/UI', 'Developer FrontEnd'],
-}
-```
+> Diseño con intención. Desarrollo con fundamentos. Productos centrados en las personas.
